@@ -7,6 +7,8 @@ Its not yet deployed yet and also its using mongoDB for storing user data (local
 
 if you want to clone it or fork it  then make sure first install all the required npm packages 
 
+and also make sure to create on  .env file where you can store google_client_id and google_client_secret for google authentication to work
+
 >npm install
 
 and then to run this on local host:3000
